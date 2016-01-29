@@ -4,19 +4,18 @@ div {
 	margin: 0px;
 	padding: 0px;
 }
-.Caja1 {
+.rosa {
 	background-color: pink;
 	position: static;
 	margin-left: 20px; 
 }
-.Caja2 {
+.azul {
 	background-color: blue;
 	position: relative;
-	left: 220px;
+	left: 200px;
 }
-.Caja3{
+.verde {
 	background-color: green;
 	position: static;
 	margin-left: 20px;
-	
 }
