@@ -1,0 +1,22 @@
+div {
+	width: 200px;
+	height: 200px;
+	margin: 0px;
+	padding: 0px;
+}
+.Caja1 {
+	background-color: pink;
+	position: static;
+	margin-left: 20px; 
+}
+.Caja2 {
+	background-color: blue;
+	position: relative;
+	left: 220px;
+}
+.Caja3{
+	background-color: green;
+	position: static;
+	margin-left: 20px;
+	
+}
