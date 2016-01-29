@@ -6,20 +6,18 @@ div {
 }
 .rosa {
 	background-color: pink;
-	position: absolute;
+	position: static;
 }
 .azul {
 	background-color: blue;
-	position: absolute;
-	margin-left: 1000px;
+	position: relative;
+	left: 200px;
 }
 .verde {
 	background-color: green;
-	position: absolute;
-	margin-top: 500px;
+	position: static;
 }
 .yellow {
 	background-color: yellow;
-	position: absolute;
-	margin-left: 1000px;
+	position: static;	 
 } 
